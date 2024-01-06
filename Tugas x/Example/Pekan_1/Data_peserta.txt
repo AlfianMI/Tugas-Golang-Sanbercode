@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Alfian Muhammad Ibrahim
+2. Email: sulivian321@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Github: https://github.com/AlfianMI
+5. Akun Telegram: -
+6. Status (Bekerja/Mahasiswa): 
+7. Umur: 23
+8. Pernah menggunakan Go? : belum
+9. Bahasa Pemrograman yg pernah dipelajari: C++, Python IoT
+10. Pernah membuat REST API? : belum
